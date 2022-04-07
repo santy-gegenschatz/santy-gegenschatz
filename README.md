@@ -5,9 +5,6 @@ These are the technologies i know:
 - Data Science: (Python, SQL)
 - Blockchain: (Solidity)
 - Version Control: (Git, Github)
-</br>
-In the future, I would like to learn more about C, C++ & Rust
-</br>
 I am generally looking to collaborate on interesting projects.
 </br>
 You can reach my out via Github or twitter (available on my bio).

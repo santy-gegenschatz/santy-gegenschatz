@@ -1,5 +1,5 @@
 👋 Hi, I’m @santy-gegenschatz </br>
-👀 I am a Software Developer from Argentina 🇦🇷. </br>
+👀 I am a Software Engineer from Argentina 🇦🇷. </br>
 These are the technologies i know: 
 - Full Stack Web Development: (HTML, CSS, SCSS, Javascript, React Framework)
 - Data Science: (Python, SQL, MongoDB)

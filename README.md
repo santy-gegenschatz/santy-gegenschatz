@@ -2,7 +2,7 @@
 👀 I am a Software Engineer from Argentina 🇦🇷. </br>
 These are the technologies i know: 
 - Full Stack Web Development: (HTML, CSS, SCSS, Javascript, React Framework)
-- Data Science: (Python, SQL, MongoDB)
+- Data Science: (Python, SQL, MongoDB, PyTorch)
 - Blockchain: (Solidity)
 - Version Control: (Git, Github)
 </br>

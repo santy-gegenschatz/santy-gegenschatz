@@ -6,6 +6,8 @@ I'm deeply interested in machine learning applications for biotech and AI.
 
 Unfortunately, I'm only a decent coder, but am trying to get better 🙈
 
-Check out some of my projects here: [aipredict.vercel.app](https://aipredict.vercel.app)
+Check out some of my projects here: 
+- [santygegenschatz.com](https://santygegenschatz.com)
+- [aipredict.vercel.app](https://aipredict.vercel.app)
 
 Feel free to connect, I'm here to learn from others because I'm typically quite incompetent.

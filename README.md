@@ -8,6 +8,6 @@ Unfortunately, I'm only a decent coder, but am trying to get better through deli
 
 Check out some of my projects here: 
 - [santygegenschatz.com](https://santygegenschatz.com)
-- [aipredict.vercel.app](https://aipredict.vercel.app)
+- [hotcheck.vercel.app](https://hotcheck.vercel.app)
 
 Feel free to connect, I'm here to learn from others because I'm typically quite incompetent.

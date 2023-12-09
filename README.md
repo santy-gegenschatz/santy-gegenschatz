@@ -10,7 +10,7 @@ I'm a decent coder, not spectacular yet, but getting consistently better through
 
 Check out some of my projects here: 
 - [santygegenschatz.com](https://santygegenschatz.com)
-- [gegeenlabs.com](https://www.gegenlabs.com/)
+- [gegenlabs.com](https://www.gegenlabs.com/)
 - [hotcheckai.com](https://hotcheckai.com)
 
 Feel free to connect

@@ -4,9 +4,9 @@ I'm a research scientist and software engineer from 🇦🇷.
 
 I'm deeply interested in machine learning applications for biotech and AI.
 
-I'm a decent coder, not spectacular yet, but getting consistently better through deliberate practice.
+I went from being a terrible coder to being a quite decent one, and am getting better thorugh deliberate practice.
 
-(went from 0 to deploying my own app and it being used used in 70+ countries and still striving forward for more growth and knowledge)
+(eg: deployed my own app and it has been used used in 70+ countries. Also, more complex and advanced apps are on the way.)
 
 Check out some of my projects here.
 - Personal Web Page [santygegenschatz.com](https://santygegenschatz.com)

@@ -9,7 +9,7 @@ I went from being a terrible coder to being a quite decent one, and am getting b
 (eg: deployed my own app and it has been used used in 70+ countries. Also, more complex and advanced apps are on the way.)
 
 Check out some of my projects here.
-- Productivity/Willpower Growth App [lebenmaster.com](https://www.lebenmaster.com)
+- Personal Productivity Software [lebenmaster.com](https://www.lebenmaster.com)
 - Personal Web Page [santygegenschatz.com](https://santygegenschatz.com)
 - Science Research Lab [gegenlabs.com](https://www.gegenlabs.com/)
 - Simple web app for fun [hotcheckai.com](https://hotcheckai.com)

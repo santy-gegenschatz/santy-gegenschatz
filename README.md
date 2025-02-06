@@ -12,6 +12,7 @@ Check out some of my projects here.
 - Personal Productivity Software [lebenmaster.com](https://www.lebenmaster.com)
 - Personal Web Page [santygegenschatz.com](https://santygegenschatz.com)
 - Science Research Lab [gegenlabs.com](https://www.gegenlabs.com/)
+- Hedge fund & investment fund [AustralAnchor](https://australanchor.vercel.app/)
 - Simple web app for fun [hotcheckai.com](https://hotcheckai.com)
 
 Feel free to connect
